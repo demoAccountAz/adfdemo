@@ -1,0 +1,9 @@
+{
+	"name": "ka-data-factory234",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac4e9887-4492-4d6a-9b79-19ad8deaa243",
+		"tenantId": "2d9878b7-1c1a-48d6-866a-4fef4ae3bd57"
+	}
+}
